@@ -67,6 +67,8 @@
 }
 ._默认样式 {
 }
+.form_disabled {
+}
 .image {
 }
 ._表格 {
@@ -90,5 +92,7 @@
 ._聚咖盟v1_2_财务统计 {
   font-size:12px;
   color:#FFFFFF;
+}
+.box_3 {
 }
 textarea, select, input, button { outline: none; }
