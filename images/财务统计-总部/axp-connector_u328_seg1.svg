@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="185px" height="10px" preserveAspectRatio="xMinYMid meet" viewBox="397 926  185 8" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 402.5 949  L 402.5 935  A 5 5 0 0 1 407 930.5 L 567 930.5  A 3 3 0 0 1 570 927.5 A 3 3 0 0 1 573 930.5 A 4 4 0 0 1 577.5 934 L 577.5 2995  A 3 3 0 0 1 580.5 2998 A 3 3 0 0 1 577.5 3001 L 577.5 3390  " stroke-width="1" stroke="#ff0000" fill="none" stroke-opacity="0.298039215686275" />
-  <path d="M 583 3389  L 572 3389  L 572 3390  L 583 3390  L 583 3389  Z " fill-rule="nonzero" fill="#ff0000" stroke="none" fill-opacity="0.298039215686275" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="396px" height="10px" preserveAspectRatio="xMinYMid meet" viewBox="11 866  396 8" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 402.5 896  L 402.5 875  A 5 5 0 0 0 397.5 870.5 L 21 870.5  A 5 5 0 0 0 16.5 875 L 16.5 2995  A 3 3 0 0 1 19.5 2998 A 3 3 0 0 1 16.5 3001 L 16.5 3390  " stroke-width="1" stroke="#ff0000" fill="none" stroke-opacity="0.298039215686275" />
+  <path d="M 22 3389  L 11 3389  L 11 3390  L 22 3390  L 22 3389  Z " fill-rule="nonzero" fill="#ff0000" stroke="none" fill-opacity="0.298039215686275" />
 </svg>

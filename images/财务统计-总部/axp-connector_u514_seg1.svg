@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="383px" height="10px" preserveAspectRatio="xMinYMid meet" viewBox="160 192  383 8" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 538 196.5  L 170 196.5  A 5 5 0 0 1 165.5 191.5 L 165.5 141  " stroke-width="1" stroke="#ff0000" fill="none" stroke-opacity="0.298039215686275" />
-  <path d="M 160 142  L 171 142  L 171 141  L 160 141  L 160 142  Z " fill-rule="nonzero" fill="#ff0000" stroke="none" fill-opacity="0.298039215686275" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="178px" height="10px" preserveAspectRatio="xMinYMid meet" viewBox="397 2816  178 8" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 402.5 2845  L 402.5 2825  A 5 5 0 0 1 407 2820.5 L 484 2820.5  A 3 3 0 0 1 487 2817.5 A 3 3 0 0 1 490 2820.5 L 497 2820.5  A 3 3 0 0 1 500 2817.5 A 3 3 0 0 1 503 2820.5 L 557 2820.5  A 3 3 0 0 1 560 2817.5 A 3 3 0 0 1 563 2820.5 L 565 2820.5  A 5 5 0 0 1 570.5 2825 L 570.5 3794  A 3 3 0 0 1 573.5 3797 A 3 3 0 0 1 570.5 3800 L 570.5 8054  A 5 5 0 0 0 575.5 8059.5 L 582 8059.5  " stroke-width="1" stroke="#ff0000" fill="none" stroke-opacity="0.298039215686275" />
+  <path d="M 581 8054  L 581 8065  L 582 8065  L 582 8054  L 581 8054  Z " fill-rule="nonzero" fill="#ff0000" stroke="none" fill-opacity="0.298039215686275" />
 </svg>
